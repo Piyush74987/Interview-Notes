@@ -1,0 +1,12 @@
+Time table
+
+5:30 to 6:40 running
+6:45 to 8:00 get ready
+8:00 to 11:00 data Science course
+11:30 to 1:30 Sql,os,software
+4:30 to 7:30 Dsa 
+9:00 to 10:30 other skills like data engineering, data analytics, cloud web
+
+
+
+

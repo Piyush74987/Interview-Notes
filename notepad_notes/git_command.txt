@@ -1,0 +1,27 @@
+ 1] git init
+
+2] git status
+
+
+3] git add
+
+
+4] git commit -m
+
+
+5] for adding a GitHub repo
+git remote add origin git repo link
+
+
+6] for creating branch and deleting
+
+git checkout -b name  # create branch
+
+git checkout -d name # delete branch
+
+git branch # it gives all branch in repo
+
+
+7] git push origin branch name # it push It into repo
+
+8] git log # gives history  
